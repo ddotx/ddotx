@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-[![roadmap.sh](https://roadmap.sh/card/wide/67dfa9da83420316600c7587?variant=dark&roadmaps=react%2Cvue%2Cangular%2Cai-engineer)](https://roadmap.sh)
+[![roadmap.sh](https://roadmap.sh/card/wide/67dfa9da83420316600c7587?variant=dark)](https://roadmap.sh)
 
 <!--
 **ddotx/ddotx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
